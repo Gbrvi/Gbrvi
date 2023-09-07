@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrvi&show_icons=true&theme=dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gbrvi&show_icons=true&theme=dark) -->
 
-![Estatísticas de Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrvi&layout=compact)
+![Estatísticas de Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrvi&layout=compact&theme=dark)
 
 
 <!--
