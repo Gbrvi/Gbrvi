@@ -1,22 +1,22 @@
 
-# 💻 Sobre Mim
+## 💻 About me
 
-Olá! Meu nome é Gabriel de Almeida, e sou um desenvolvedor apaixonado por tecnologia, programação e resolução de problemas. Atualmente, estudo diversas áreas do desenvolvimento de software, incluindo ASP.NET, ASP.NET CORE, C#, Java, Python, bancos de dados e redes.
+Hello! My name is Gabriel de Almeida, and I’m a developer passionate about technology, programming, and problem-solving. Currently, I’m studying various areas of software development, including ASP.NET, ASP.NET Core, C#, Java, Python, databases, and networks.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-- **Linguagens:** C#, C, Java, Python
+- **Languagens:** C#, C, Java, Python
 - **Frameworks:** ASP.NET Core, Spring Boot, Entity Framework Core
-- **Banco de Dados:** SQLite, SQL Server, PostgreSQL, MySQL
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
-- **Outros:** Mininet, Wireshark, TCPDump, Redes de Computadores
+- **Databases:** SQLite, SQL Server, PostgreSQL, MySQL
+- **Web Development:** HTML, CSS, JavaScript
+- **Others:** Mininet, Wireshark, TCPDump, Computer Networking
 
 ---
 ![Estatísticas de Linguagem](https://github-readme-stats.vercel.app/api/top-langs/?username=gbrvi&layout=compact&theme=dark)
 
 ---
-## 📫 Contato
+## 📫 Contact
 - 📧 gv.almeida06@gmail.com
 
 
