@@ -5,7 +5,7 @@ Hello! My name is Gabriel de Almeida, and I’m a developer passionate about tec
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Knowledge
 - **Languagens:** C#, C, Java, Python
 - **Frameworks:** ASP.NET Core, Spring Boot, Entity Framework Core
 - **Databases:** SQLite, SQL Server, PostgreSQL, MySQL
